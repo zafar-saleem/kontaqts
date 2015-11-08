@@ -4,4 +4,4 @@ It allows users to store contacts details.
 
 ## Stack
 
-Angularjs, firebase, bootstrap, angular route, angularfire.
+Angularjs, firebase, foundation, angular route, angularfire, jquery.
